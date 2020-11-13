@@ -1,0 +1,21 @@
+.axis text {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.container {
+    margin: 15px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
+
+header {
+    font-size: 35px;
+    padding: 10px;
+}
+
+.axlabel {
+    font-weight: bold;
+}
